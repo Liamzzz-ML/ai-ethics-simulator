@@ -1,0 +1,1 @@
+**I built a C++ simulator that compares utilitarian and deontological decision-making in trolley problem scenarios. This project allowed me to translate abstract moral theories into algorithmic rules, exploring how philosophy can inform AI ethics.**
